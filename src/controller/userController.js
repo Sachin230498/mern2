@@ -44,3 +44,11 @@ const login = async (req, res) => {
 };
 
 export { register, login, GetData };
+
+
+
+// 44YgpREaEOGxIXRY
+// sachinpathe230498
+
+
+// mongodb+srv://sachinpathe230498:44YgpREaEOGxIXRY@cluster0.hn0hv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
